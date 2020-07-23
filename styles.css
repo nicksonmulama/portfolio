@@ -131,8 +131,35 @@ footer{
     min-height: 400px;
 }
 .c1 ,.c2{
-    width: 35%;
+    width: 40%;
     margin-left: 5%;
     min-height:100px;
     float: left;
+    margin-top: 50px;
+    line-height: 50px;
+    font-size: 18px;
+    color: yellow;
+
+}
+.c2 i{
+    width: 70px;
+}
+.c3{
+    float: left;
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 30px;
+    color:purple;
+    line-height: 40px;
+}
+.a{
+    text-align:center;
+    text-transform: uppercase;
+    margin-top: 50px;
+    color:yellow;
+}
+#contacting{
+    background: url('images/beach.jpg');
 }
