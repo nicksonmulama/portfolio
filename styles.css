@@ -43,7 +43,7 @@ ul li a:hover{
     border-radius: 5px;
 }
 section{
-    min-height: 500px;
+    min-height: 450px;
 }
 footer{
     background-color: grey;
@@ -109,7 +109,7 @@ footer{
     height: 200px;
 }
 .three{
-    min-height: 500px;
+    min-height: 400px;
     background-color: blanchedalmond;
 }
 .three h3{
@@ -162,4 +162,81 @@ footer{
 }
 #contacting{
     background: url('images/beach.jpg');
+}
+.s1{
+    min-width: 80%;
+}
+.a1{
+    width: 100%;
+    min-height: 300px;
+    background-color:;
+    text-align: center;
+}
+.a1 img{
+    width:150px;
+    height: 150px;
+    border-radius: 80px;
+    margin-bottom: 0px;
+}
+.a1 p{
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+}
+.a1 ul{
+    width: 100%;
+    margin-top: 8px;
+
+
+}
+.a1 ul li{
+    text-align: center;
+    display: block;
+    font-size: large;
+    line-height: 30px;
+    color:;
+    font-weight: bold;
+
+}
+
+
+.a2{
+    width: 100%;
+    margin-top: 100px;
+    background-color: white;
+    min-height: 200px;
+}
+.a2 h3{
+    text-align: center;
+    line-height: 80px;
+}
+.details{
+    width: 30%;
+    float: left;
+    margin-left: 20%;
+}
+.a3{
+    background-color: white;
+    min-height: 200px;
+    width: 100%;
+}
+.w1{
+    width: 30%;
+    margin-left: 20%;
+    float: left;
+}
+.w1 ul{
+    display:block;
+}
+.w1 ul li{
+    display:block;
+    margin-left: 0;
+    margin-left: -60%;
+    /* float: left; */
+    line-height: 25px;
+}
+.qq{
+    left: 0;
+    margin-right: 70%;
+
 }
